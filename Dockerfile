@@ -1,6 +1,7 @@
 FROM ubuntu:14.04
 
-MAINTAINER Shane Dowling, shane@shanedowling.com
+Based on work done by Shane Dowling, shane@shanedowling.com
+MAINTAINER Andy Pardue, apardue@rcsreg.com
 
 # Set the locale
 RUN locale-gen en_US.UTF-8

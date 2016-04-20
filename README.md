@@ -1,7 +1,12 @@
 docker-sugarcrm-ubuntu-14.04
 ===================
 
-Dockerfile for Apache &amp; PHP 5.4 for SugarCRM.
+Derived from work by Shane Dowling, shane@shanedowling.com
+
+I changed it to use ubuntu-14.04
+and added php5-imap
+
+Dockerfile for Apache &amp; PHP 5 for SugarCRM.
 
 
 ### Instructions
