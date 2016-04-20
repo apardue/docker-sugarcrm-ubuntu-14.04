@@ -1,6 +1,6 @@
 FROM ubuntu:14.04
 
-Based on work done by Shane Dowling, shane@shanedowling.com
+# Based on work done by Shane Dowling, shane@shanedowling.com
 MAINTAINER Andy Pardue, apardue@rcsreg.com
 
 # Set the locale
