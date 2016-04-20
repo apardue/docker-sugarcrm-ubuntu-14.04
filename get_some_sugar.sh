@@ -1,0 +1,1 @@
+wget http://downloads.sourceforge.net/project/sugarcrm/1%20-%20SugarCRM%206.5.X/SugarCommunityEdition-6.5.X/SugarCE-6.5.23.zip?r=http%3A%2F%2Fwww.sugarcrm.com%2Fthank-you-downloading-sugar-community-edition&ts=1461180205&use_mirror=tenet
